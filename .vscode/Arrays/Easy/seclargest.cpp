@@ -18,5 +18,5 @@ int main(){
     // }
     // cout << "The largest element in the array is: " << max << endl;
     // cout << "The second largest element in the array is: " << secmax << endl;
-    return 0;
-}
+//     return 0;
+// }

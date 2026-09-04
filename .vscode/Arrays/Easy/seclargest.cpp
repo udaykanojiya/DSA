@@ -14,9 +14,9 @@ using namespace std;
     //     }
     //     else if(arr[i] > secmax && arr[i] != max){
     //         secmax = arr[i];
-        }
-    }
-    cout << "The largest element in the array is: " << max << endl;
-    cout << "The second largest element in the array is: " << secmax << endl;
-    return 0;
-}
+//         }
+//     }
+//     cout << "The largest element in the array is: " << max << endl;
+//     cout << "The second largest element in the array is: " << secmax << endl;
+//     return 0;
+// }

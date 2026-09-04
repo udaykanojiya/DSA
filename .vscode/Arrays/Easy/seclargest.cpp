@@ -2,10 +2,10 @@
 using namespace std;    
 
 
-int main(){
-    int max, secmax;
-    int arr[10] = {84, 84, 13, 84, 52, 16, 72, 18, 59,84};
-    max = arr[0];
+// int main(){
+//     int max, secmax;
+//     int arr[10] = {84, 84, 13, 84, 52, 16, 72, 18, 59,84};
+//     max = arr[0];
     // secmax = INT_MIN;
     // for(int i = 1; i < 10; i++){
     //     if(arr[i] > max){

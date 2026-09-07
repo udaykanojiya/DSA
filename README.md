@@ -1,3 +1,3 @@
 ﻿# DSA
-Journey Begins here.
+Journey Begins from here.
 
